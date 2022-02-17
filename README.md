@@ -5,7 +5,7 @@
 
 # Sobre o Repositório
 
-<p align="center"> A finalidade desse repositório é apresentar os códigos desenvolvidos que atendam as diretrizes de cada um dos desafios propostos. Contém 3 pastas cada uma delas contendo 1 dos desafios no seu arquivo main.py. Para rodar os códigos precisa ter apenas o python instalado, mas o recomendado é que os códigos sejam rodados numa IDE ou no próprio vscode. </p>
+<p align="center"> A finalidade desse repositório é apresentar os códigos desenvolvidos que atendam as diretrizes de cada um dos desafios propostos. Dentro da pasta capgemini contém 3 subpastas cada uma delas contendo 1 dos desafios no seu arquivo main.py. Para rodar os códigos precisa ter apenas o python instalado, mas o recomendado é que os códigos sejam rodados numa IDE ou no próprio vscode. </p>
 
 # Tecnologias Usadas
 
